@@ -70,6 +70,6 @@ theme: landscape
 deploy:
   type: git
   repo:
-      github: git@github.com:ayumu5566/.github.io.git,master
+      github: git@github.com:ayumu5566/ayumu5566.github.io.git,master
       coding: git@git.coding.net:Zhan4L/MyFirstHexoBlog.git,master
 
